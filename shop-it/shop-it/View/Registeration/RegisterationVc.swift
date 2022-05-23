@@ -9,9 +9,12 @@ import UIKit
 
 class RegisterationVc: UIViewController {
 
+    @IBOutlet weak var registerBtn: UIButton!
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        registerBtn.backgroundColor = .blue
+        registerBtn.layer.cornerRadius = 20
+       
         // Do any additional setup after loading the view.
     }
 
