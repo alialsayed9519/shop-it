@@ -1,0 +1,20 @@
+PODS:
+  - Cosmos (23.0.0)
+  - TextFieldEffects (1.6.0)
+
+DEPENDENCIES:
+  - Cosmos
+  - TextFieldEffects
+
+SPEC REPOS:
+  trunk:
+    - Cosmos
+    - TextFieldEffects
+
+SPEC CHECKSUMS:
+  Cosmos: b5c6a9a637e28a061b54c8f8b1d8529d7d4db73f
+  TextFieldEffects: 529b8aff706fb40f82c41c780c0777941a893796
+
+PODFILE CHECKSUM: 0291941f5fa0b32734a830f225104f563e09f5a6
+
+COCOAPODS: 1.8.4

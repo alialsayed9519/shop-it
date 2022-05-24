@@ -159,6 +159,11 @@
             <point key="canvasLocation" x="140.57971014492756" y="71.651785714285708"/>
         </view>
     </objects>
+    <designables>
+        <designable name="lXX-J3-iQd">
+            <size key="intrinsicContentSize" width="120" height="20"/>
+        </designable>
+    </designables>
     <resources>
         <image name="heart.fill" catalog="system" width="128" height="109"/>
         <systemColor name="labelColor">
