@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		383BF818283C551A006AA96A /* ProductImageCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 383BF816283C551A006AA96A /* ProductImageCollectionViewCell.swift */; };
+		383BF819283C551A006AA96A /* ProductImageCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 383BF817283C551A006AA96A /* ProductImageCollectionViewCell.xib */; };
 		4112DD422836C52200856737 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4112DD412836C52200856737 /* AppDelegate.swift */; };
 		4112DD442836C52200856737 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4112DD432836C52200856737 /* SceneDelegate.swift */; };
 		4112DD4C2836C52200856737 /* shop_it.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 4112DD4A2836C52200856737 /* shop_it.xcdatamodeld */; };
@@ -69,6 +71,8 @@
 /* Begin PBXFileReference section */
 		022F5F707F87737DF492F0BF /* Pods-shop-it.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-shop-it.debug.xcconfig"; path = "Target Support Files/Pods-shop-it/Pods-shop-it.debug.xcconfig"; sourceTree = "<group>"; };
 		18E60DEE4AD95B599214D197 /* Pods_shop_it.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_shop_it.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		383BF816283C551A006AA96A /* ProductImageCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductImageCollectionViewCell.swift; sourceTree = "<group>"; };
+		383BF817283C551A006AA96A /* ProductImageCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ProductImageCollectionViewCell.xib; sourceTree = "<group>"; };
 		4112DD3E2836C52200856737 /* shop-it.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "shop-it.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4112DD412836C52200856737 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4112DD432836C52200856737 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -350,6 +354,8 @@
 			children = (
 				41995D9C283978D500658C42 /* ProductDetailsVc.swift */,
 				41995D9D283978D500658C42 /* ProductDetailsVc.xib */,
+				383BF816283C551A006AA96A /* ProductImageCollectionViewCell.swift */,
+				383BF817283C551A006AA96A /* ProductImageCollectionViewCell.xib */,
 			);
 			path = ProductDetails;
 			sourceTree = "<group>";
@@ -430,7 +436,6 @@
 				022F5F707F87737DF492F0BF /* Pods-shop-it.debug.xcconfig */,
 				7F30C2262D670F6BAC282FC4 /* Pods-shop-it.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -552,6 +557,7 @@
 				4112DD512836C52500856737 /* LaunchScreen.storyboard in Resources */,
 				41995DAB2839793600658C42 /* HomeVc.xib in Resources */,
 				41995DBA28397AAC00658C42 /* WishListVc.xib in Resources */,
+				383BF819283C551A006AA96A /* ProductImageCollectionViewCell.xib in Resources */,
 				41995D972839789700658C42 /* RegisterationVc.xib in Resources */,
 				4112DD4E2836C52500856737 /* Assets.xcassets in Resources */,
 				41995D9F283978D500658C42 /* ProductDetailsVc.xib in Resources */,
@@ -637,6 +643,7 @@
 				41995D962839789700658C42 /* RegisterationVc.swift in Sources */,
 				41995D9E283978D500658C42 /* ProductDetailsVc.swift in Sources */,
 				41995DB928397AAC00658C42 /* WishListVc.swift in Sources */,
+				383BF818283C551A006AA96A /* ProductImageCollectionViewCell.swift in Sources */,
 				4112DD4C2836C52200856737 /* shop_it.xcdatamodeld in Sources */,
 				41995D832839701900658C42 /* HomeViewModel.swift in Sources */,
 				41995DA62839791F00658C42 /* CategoryVc.swift in Sources */,
